@@ -1,0 +1,278 @@
+@import url("https://fonts.googleapis.com/css2?family=Open+Sans:wght@500;600;700;800&display=swap");
+.container {
+  max-width: 1921px;
+  height: 1030px;
+  margin: 0 auto;
+}
+
+* {
+  margin: 0;
+}
+
+.nav {
+  display: flex;
+  padding-top: 21px;
+}
+.nav ul {
+  list-style: none;
+  display: flex;
+  align-items: center;
+  margin-left: 84px;
+}
+.nav a {
+  text-decoration: none;
+  font-family: "Open Sans", sans-serif;
+  font-style: normal;
+  font-weight: 600;
+  color: #FFFFFF;
+  font-size: 16px;
+  margin-left: 40px;
+}
+
+#nav_link {
+  margin-left: 387px;
+}
+
+#nav_1 {
+  width: 112px;
+  height: 52px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background: #3A68B8;
+  border-radius: 5px;
+  margin-left: 256px;
+  font-size: 16px;
+  font-weight: 600;
+}
+
+.header {
+  background: rgb(1, 1, 41);
+  width: 1921px;
+  height: 1030px;
+  margin: 0 auto;
+}
+
+.sam {
+  padding-left: 388px;
+  padding-top: 103px;
+}
+.sam h3 {
+  color: #3A68B8;
+  font-style: normal;
+  font-weight: 600;
+  font-size: 18px;
+  font-family: "Open Sans", sans-serif;
+}
+.sam h1 {
+  font-style: normal;
+  font-weight: 800;
+  color: #FFFFFF;
+  font-size: 55px;
+  font-family: "Open Sans", sans-serif;
+  padding-top: 10px;
+}
+.sam p {
+  font-style: normal;
+  font-size: 18px;
+  font-family: "Open Sans", sans-serif;
+  color: #FFFFFF;
+  opacity: 0.7;
+  font-style: normal;
+  padding-top: 40px;
+}
+.sam #sam_3 {
+  width: 171px;
+  height: 57px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background: #3A68B8;
+  border-radius: 5px;
+  color: #FFFFFF;
+  text-decoration: none;
+  font-family: "Open Sans", sans-serif;
+  font-weight: 600;
+  font-size: 20px;
+  font-style: normal;
+}
+.sam #sam_4 {
+  width: 217px;
+  height: 57px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background: #3A68B8;
+  border-radius: 5px;
+  color: #FFFFFF;
+  text-decoration: none;
+  font-family: "Open Sans", sans-serif;
+  font-weight: 600;
+  font-size: 20px;
+  font-style: normal;
+  margin-left: 20px;
+}
+.sam .a_00 {
+  display: flex;
+  padding-top: 50px;
+}
+.sam #sam0 {
+  padding-right: 10px;
+}
+
+.header_11 {
+  display: flex;
+  margin-top: 68px;
+}
+
+#fa {
+  padding-left: 114px;
+}
+
+.head {
+  margin-left: 318px;
+  margin-top: 89px;
+}
+
+#head11 {
+  margin-left: 72px;
+}
+
+.section {
+  height: 2301px;
+  width: 1921px;
+  margin: 0 auto;
+  background: rgb(1, 1, 21);
+}
+
+.section_1 {
+  display: flex;
+  padding-top: 117px;
+}
+
+.saml {
+  padding-top: 178px;
+  padding-left: 68px;
+}
+.saml h1 {
+  font-family: "Open Sans", sans-serif;
+  font-weight: 700;
+  color: #FFFFFF;
+  font-size: 40px;
+  font-style: normal;
+}
+.saml p {
+  padding-top: 30px;
+  font-style: normal;
+  font-size: 16px;
+  font-family: "Open Sans", sans-serif;
+  color: #FFFFFF;
+  opacity: 0.7;
+  font-style: normal;
+}
+.saml #yoq {
+  margin-top: 50px;
+  text-decoration: none;
+  width: 150px;
+  height: 52px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  color: #FFFFFF;
+  background: #3A68B8;
+  border-radius: 5px;
+  font-size: 16px;
+  font-weight: 600;
+  font-family: "Open Sans", sans-serif;
+}
+
+.das {
+  padding-left: 256px;
+}
+
+.flex {
+  width: 362px;
+  height: 389px;
+  background: linear-gradient(180deg, rgba(37, 34, 34, 0.2) -41.9%, #252424 115.68%);
+  margin-left: 30px;
+  /* Note: backdrop-filter has minimal browser support */
+  border-radius: 10px;
+}
+.flex h3 {
+  font-family: "Open Sans";
+  font-style: normal;
+  font-weight: 700;
+  font-size: 25px;
+  line-height: 125%;
+  /* or 31px */
+  text-align: center;
+  /* #FFFFFF */
+  color: #FFFFFF;
+  padding-top: 47px;
+  opacity: 0.7;
+}
+.flex p {
+  text-align: center;
+  padding-top: 30px;
+  font-family: "Open Sans";
+  font-style: normal;
+  font-weight: 600;
+  font-size: 16px;
+  line-height: 160%;
+  /* or 26px */
+  text-align: center;
+  /* #FFFFFF */
+  color: #FFFFFF;
+  opacity: 0.7;
+}
+
+.fles {
+  margin-left: 132px;
+  padding-top: 30px;
+}
+
+.bir {
+  display: flex;
+  padding-top: 170px;
+}
+
+#reo {
+  margin-left: 927px;
+  padding-top: 50px;
+}
+
+.da {
+  padding-top: 214px;
+  padding-left: 387px;
+}
+.da h1 {
+  font-family: "Open Sans";
+  font-style: normal;
+  font-weight: 700;
+  font-size: 40px;
+  line-height: 130%;
+  /* or 52px */
+  /* #FFFFFF */
+  color: #FFFFFF;
+}
+.da p {
+  padding-top: 40px;
+  font-family: "Open Sans";
+  font-style: normal;
+  font-weight: 600;
+  font-size: 16px;
+  line-height: 160%;
+  /* or 26px */
+  /* #FFFFFF */
+  color: #FFFFFF;
+  opacity: 0.7;
+}
+
+.flex_00 {
+  display: flex;
+}
+
+#img {
+  margin-top: 170px;
+  padding-left: 34px;
+}/*# sourceMappingURL=style.css.map */
